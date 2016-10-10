@@ -67,7 +67,11 @@ table#movies th, table#movies td {
   text-align: left;
 }
 #notice, #warning {
-  background: rosybrown;
+  background: yellow;
+  color: black;
+  text-align: center;
+  border-style: double;
+  border-color: black;
   margin: 1em 0;
   padding: 4px;
 }
